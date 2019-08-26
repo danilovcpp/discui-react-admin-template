@@ -1,0 +1,8 @@
+{
+  "name": "discui-react-admin-template",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/danilovcpp/discui-react-admin-template.git",
+  "author": "danilovcpp <danilov.cpp@gmail.com>",
+  "license": "MIT"
+}
